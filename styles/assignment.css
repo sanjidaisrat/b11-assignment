@@ -1,0 +1,53 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+.resume{
+    border-radius: 15px;
+    border: 1px solid green;
+    padding: 10px;
+    background: white;
+    color:green
+    
+}
+.img{
+    content: normal;
+}
+.btn-primary{
+    background-color:green;
+    display: flex;
+        font-weight:bold ;
+        font-size: 20px;
+        color:black;
+        padding:18px 35px;
+        border-radius: 5px
+}
+ main{ 
+    background-color: rgba(41, 155, 41, 0.363);
+    padding: block;
+     max-width: 940px;
+     margin:0 auto;         
+}
+ .imgage{
+ display: flex;
+}
+.banner{
+    display: flex;
+    padding:40px 50px;
+    margin-left: 80 px;
+
+}
+.about-navbar{
+background-color: aquamarine;
+}
+
+
+
